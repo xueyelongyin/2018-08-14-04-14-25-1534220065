@@ -78,5 +78,6 @@ module.exports = function main(s) {
 	}
 	
     vSt=vSt1+'\n'+vSt2+'\n'+vSt3+'\n';
-    return vSt;
+	console.log(vSt);
+    return s;
 };

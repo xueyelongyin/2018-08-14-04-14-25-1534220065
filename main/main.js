@@ -13,7 +13,7 @@ module.exports = function main(s) {
 	}
 	
 	for(i=0;i<number.length;i++){
-		switch (number(i)){
+		switch (number[i]){
 			case "0":
 				tmp1='._.';
 				tmp2='|.|';
